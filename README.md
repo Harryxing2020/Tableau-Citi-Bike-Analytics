@@ -17,7 +17,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 ### Dashboard1 "rideship during pandemic“
-![rideship during pandemic](Image/rideship_during_pandemic.png)
+![rideship during pandemic](Images/rideship_during_pandemic.png)
 
 * How many trips have been recorded total during the chosen period?
 
@@ -25,17 +25,17 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 ### Dashboard2 How has the proportion of short-term customers and annual subscribers changed?
-![Short-term vs Long-term](Image/Short-term_Long-term.png)
+![Short-term vs Long-term](Images/Short-term_Long-term.png)
 
 ### Dashboard3 "Peaks"
-![Peaks](Image/Peaks.png)
+![Peaks](Images/Peaks.png)
 
 * What are the peak hours in which bikes are used during summer months?
 
 * What are the peak hours in which bikes are used during winter months?
 
 ### Dashboard4 "Top/Bottom Stations"
-![Top/Bottom Stations](Image/TopBottomStations.png)
+![Top/Bottom Stations](Images/TopBottomStations.png)
 
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
@@ -48,14 +48,14 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 ### Dashboar5 "Gender"
-![Gender](Image/Gender.png)
+![Gender](Images/Gender.png)
 * Today, what is the gender breakdown of active participants (Male v. Female)?
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
 
 ### Dashboar5 "age and average distance"
-![age and average distance](Image/age_average_distance.png)
+![age and average distance](Images/age_average_distance.png)
 * How does the average trip duration change by age?
 
 * What is the average distance in miles that a bike is ridden?
@@ -63,14 +63,14 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ### Dashboard6 "Bike Status Dashboard"
 
-![Bike Status](Image/Bike_Status.png)
+![Bike Status](Images/Bike_Status.png)
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
 * How variable is the utilization by bike ID?
 
 ### Dashboard7 "Maps"
-![Maps](Image/maps.png)
+![Maps](Images/maps.png)
 
 * **Basic:** A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
@@ -81,7 +81,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Dashboard 8:  "Station pair map"
 
-![Station pair map](Image/station_pair.png)
+![Station pair map](Images/station_pair.png)
 
 
 
